@@ -4,11 +4,13 @@ Estudante de Engenharia Mecatrônica pelo Centro Federal De Educação Tecnológ
 
 Membro do grupo PET do CEFET-MG.
 
-Celular(Whatsapp): +5535999371998
-
 Residente em Divinópolis, Minas Gerais
 
+Celular(Whatsapp): +5535999371998
+
 Email: kleberjunior1999@gmail.com
+
+
 
 <!--
 **KleberRodrigo/KleberRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
