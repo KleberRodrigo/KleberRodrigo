@@ -1,6 +1,6 @@
 ### Kleber Rodrigo da Silva Junior
 
-Estudante de Engenharia Mecatrônica pelo Centro Federal De Educação Tecnológica, campus Divinópolis.
+Estudante de Engenharia Mecatrônica pelo Centro Federal De Educação Tecnológica De Minas Gerais, campus Divinópolis.
 
 Membro do grupo PET do CEFET-MG.
 
